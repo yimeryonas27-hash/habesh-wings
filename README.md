@@ -1,16 +1,26 @@
-# trip
+# Habesh Wings
 
-A new Flutter project.
+A flight booking mobile application built with Flutter and Dart, integrated with the Fanos API.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Flight search and selection
+- One-way flight booking interface
+- Fanos API integration for flight information
+- Payment screen interface
+- Splash screen and navigation
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Fanos API
+- REST API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run the Project
+
+1. Install Flutter.
+2. Clone this repository.
+3. Open a terminal in the project folder.
+4. Run `flutter pub get`.
+5. Run `flutter run`.
