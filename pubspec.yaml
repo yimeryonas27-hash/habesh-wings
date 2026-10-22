@@ -24,13 +24,13 @@ dev_dependencies:
   flutter_native_splash: ^2.4.0
 
 flutter_native_splash:
-  color: "#EAA21B"
-  image: assets/icons/Habesha_Wings_logo.png
+  color: "#B8860B"
+  image: assets/icons/skybook_logo.jpg
   android: true
   ios: true
   android_12:
-    color: "#EAA21B"
-    image: assets/icons/Habesha_Wings_logo.png
+    color: "#B8860B"
+    image: assets/icons/skybook_logo.jpg
   fullscreen: true
 
 flutter:

@@ -25,7 +25,7 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFFEAA21B),
+      backgroundColor: const Color(0xFFB8860B),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -33,20 +33,20 @@ class _SplashScreenState extends State<SplashScreen> {
             const Icon(
               Icons.flight_takeoff,
               size: 80,
-              color: Colors.black,
+              color: Color(0xFF1A5276),
             ),
             const SizedBox(height: 24),
             const Text(
-              'H_W travels app ',
+              'SkyBook ',
               style: TextStyle(
-                color: Colors.black,
+                color: Color(0xFF1A5276),
                 fontSize: 32,
                 fontWeight: FontWeight.bold,
               ),
             ),
             const SizedBox(height: 48),
             const CircularProgressIndicator(
-              color: Colors.blueAccent,
+              color: Color(0xFF1A5276),
             ),
           ],
         ),

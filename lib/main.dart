@@ -27,7 +27,7 @@ class TripBookingApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Habesha Wings',
+      title: 'SkyBook',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: const Color(0xFFFFD700),

@@ -30,7 +30,7 @@ class HomeScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   const Text(
-                    'HW_travels.com',
+                    'SkyBook',
                     style: TextStyle(
                       color: Color(0xFF000000),
                       fontSize: 26,
@@ -358,7 +358,7 @@ class HomeScreen extends StatelessWidget {
                                       crossAxisAlignment: CrossAxisAlignment.start,
                                       children: [
                                         const Text(
-                                          'Habesha Wings',
+                                          'SkyBook',
                                           style: TextStyle(
                                             color: Colors.white,
                                             fontSize: 18,

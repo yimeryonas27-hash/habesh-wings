@@ -34,7 +34,7 @@ class _FlightBookingScreenState extends State<FlightBookingScreen>
       'image': 'https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800',
     },
     {
-      'title': 'HW_travels.com',
+      'title': 'SkyBook',
       'subtitle': 'Explore the world with Air Europa',
       'image': 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800',
     },
@@ -264,7 +264,7 @@ class _FlightBookingScreenState extends State<FlightBookingScreen>
             Row(
               children: [
                 const Text(
-                  'HW_travels.com',
+                  'SkyBook',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 16,
